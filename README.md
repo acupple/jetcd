@@ -1,6 +1,8 @@
 # jetcd
 simple etcd java client base okhttp
 
+Only dependencies fastjson and okhttp
+
 # usage
 1. import dependency
 ```xml
